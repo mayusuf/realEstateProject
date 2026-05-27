@@ -1,0 +1,45 @@
+Epic 1: User Authentication
+
+User Stories
+- As a user, I want to register an account so that I can use the platform.
+- As a user, I want to log in securely so that I can access my dashboard.
+- As a user, I want to reset my password so that I can recover my account.
+
+--------------------------------------------------
+
+Epic 2: Property Search & Browsing
+
+User Stories
+- As a renter, I want to search properties by keyword so that I can find suitable homes.
+- As a renter, I want to filter properties by price and location so that I can narrow my search.
+- As a renter, I want to view property details so that I can evaluate the property.
+- As a renter, I want to save favorite listings so that I can review them later.
+
+--------------------------------------------------
+
+Epic 3: Property Listing Management
+
+User Stories
+- As a property owner, I want to create a property listing so that renters can view my property.
+- As a property owner, I want to upload property images so that users can visually inspect the property.
+- As a property owner, I want to edit property information so that listing details remain accurate.
+- As a property owner, I want to remove unavailable listings so that users only see active properties.
+
+--------------------------------------------------
+
+Epic 4: Communication System
+
+User Stories
+- As a renter, I want to contact the property owner so that I can ask questions.
+- As a renter, I want to schedule a property visit so that I can inspect the property physically.
+- As a property owner, I want to receive inquiry notifications so that I can respond quickly.
+
+--------------------------------------------------
+
+Epic 5: Admin Management
+
+User Stories
+- As an admin, I want to verify property listings so that fake listings are minimized.
+- As an admin, I want to manage users so that platform security is maintained.
+- As an admin, I want to remove inappropriate content so that the platform remains trustworthy.
+- As an admin, I want to generate reports so that I can monitor platform performance.

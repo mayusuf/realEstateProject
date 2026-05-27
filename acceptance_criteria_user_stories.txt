@@ -1,0 +1,40 @@
+Acceptance Criteria for User Stories
+
+--------------------------------------------------
+
+User Story 1
+As a user, I want to register an account so that I can use the platform.
+
+Acceptance Criteria
+- User can register using name, email, and password.
+- System validates required fields before submission.
+- Email address must be unique.
+- Password must meet minimum security requirements.
+- Successful registration redirects the user to login or dashboard page.
+- System shows error messages for invalid or missing information.
+
+--------------------------------------------------
+
+User Story 2
+As a user, I want to log in securely so that I can access my dashboard.
+
+Acceptance Criteria
+- User can log in using registered email and password.
+- System authenticates valid credentials successfully.
+- Invalid credentials display an error message.
+- Logged-in users are redirected to their dashboard.
+- Unauthorized users cannot access protected pages.
+- User session remains active until logout or session expiration.
+
+--------------------------------------------------
+
+User Story 3
+As a user, I want to reset my password so that I can recover my account.
+
+Acceptance Criteria
+- User can request password reset using registered email.
+- System sends a password reset link or verification code.
+- Reset link/code expires after a certain period.
+- User can create a new password after verification.
+- New password must satisfy security requirements.
+- User receives confirmation after successful password reset.
